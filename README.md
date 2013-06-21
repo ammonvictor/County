@@ -6,11 +6,11 @@ County is a symbol font that makes is easy to create a map of the Republic of Ke
 
 
 ##Files
-    map.svg      - SVG map used to create the font
+    counties.svg      - SVG map used to create the font
     assets\font  - Folder containing the web-font files
     assets\css   - Folder containing compiled CSS files
     county.html - Basic Demo
-    counties.ttf  - TrueType font file
+    county.ttf  - TrueType font file
     
 
 ##What is County?
