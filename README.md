@@ -1,16 +1,16 @@
 County
 ======
 
-County is a symbol font that makes is easy to create a map of the Republic of Kenya using only HTML and CSS. Each county can be styled independently with CSS for making simple visualizations. The County is inspired by Ben Markowitz symbol font Stately,[Stately Microsite](http://intridea.github.com/stately/)
+County is a symbol font that makes is easy to create a map of the Republic of Kenya using only HTML and CSS. Each county can be styled independently with CSS for making simple visualizations. County is inspired by Ben Markowitz symbol font Stately, [Stately Microsite](http://intridea.github.com/stately/)
 
 
 
 ##Files
-    counties.svg      - SVG map used to create the font
-    assets\font  - Folder containing the web-font files
-    assets\css   - Folder containing compiled CSS files
-    county.html - Basic Demo
-    county.ttf  - TrueType font file
+    counties.svg	- SVG map used to create the font
+    assets\font		- Folder containing the web-font files
+    assets\css		- Folder containing compiled CSS files
+    county.html		- Basic Demo
+    county.ttf		- TrueType font file
     
 
 ##What is County?
