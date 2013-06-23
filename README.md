@@ -15,7 +15,7 @@ County is a symbol font that makes is easy to create a map of the Republic of Ke
 
 ##What is County?
 Each county is a glyph within the font. Each county is positioned and sized relative to the the rest of the counties, so that when each character is stacked on top of one another, it creates a full map.
-The pertinent characters are uppercase A-U and lowercase a-z with lowercase z generating a full map of Kenya.
+The pertinent characters are uppercase A-U and lowercase a-z with uppercase Z generating a full map of Kenya.
 
 ##Basic Use Case
 You can use county however you like, but some base CSS and HTML is included.
