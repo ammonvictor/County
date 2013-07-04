@@ -89,7 +89,7 @@ Set the size and base map color in your CSS:
 }
 ```
     
-Style Individual State:
+Style Individual County:
 
 ```css
 .county .nrb,
